@@ -1,2 +1,3 @@
 name: Mehdi Sepahvand, Professional Developer
 	markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
